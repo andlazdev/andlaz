@@ -1,6 +1,6 @@
 <h2> Hi, I'm Andrés Lázaro! <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/S5hSLqxRTZHCMRxVHW/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>System Enginner<img src="https://media.giphy.com/media/S5hSLqxRTZHCMRxVHW/giphy.gif" width="30"></br>Developer analyst at <a href="https://www.grupokonecta.com/co">Konecta</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -17,7 +17,7 @@ const aboutMe = {
          js: ["Node", "Express"],
          php: ["Codeigniter" "Laravel"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", PostgreSQL],
+      databases: ["MongoDB", "mySQL", "SQLServer", "PostgreSQL"],
    },
    currentOccupation: ["I currently work as a development analyst, I am in charge of an application developed in Angular and Codeigniter. Learn Angular, a goal achieved!"],
    challenge: "Learn NestJS to combine with Angular, also learn React JS",
